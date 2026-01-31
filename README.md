@@ -1,0 +1,8 @@
+Question 1: The program starts at 1 and consectively multiplies integers. It tracks the product and multiplier. Then it prints the final product and whatever consecutive number caused it to exceed the threshold.
+Question 2: The program defines a function that makes a list of strings a dictionary that then stores the string's lengths and if that length is odd or even. It then gives a summary of the strings in the list.
+Question 3: The program first computes x^y through a function defined applying it to a list of pairs and does argument unpacking through a for loop. Any negative intgers are skiped where y is negative. The results are stored in a list and printed at the end.
+Question 4: The program uses import random to take a list of random values between 1 and 0 and a random x value. It is then sorted in ascending order. It locates indicies where the sorted list is greater than or equal to x. The first matching index is shown if one exists then in the end prints the sorted values,value of x and either prints the matching index or indicates how none were found.
+Question 5: The program compares two circle radii validating the inputs being positive. It then computes the area of the circles and gives the user the percentage of the larger circle's area that is being occupied by the small circle.
+Question 6: The program takes a list, identifies unique values and calculates percentage of numbers that are equal to or less than the unique values.
+Question 7: The program converts the number of seconds since midnight, to hours seconds and whether it is AM or PM.
+Quesion 8: The program creates a DataFrame using the pandas library then computes a new collumn from the existing columns, then it prints the new updated data frame.
